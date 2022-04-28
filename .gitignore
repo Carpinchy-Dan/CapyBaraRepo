@@ -1,5 +1,5 @@
 
-CapybaraMain/Capy.Models/obj/Capy.Models.csproj.nuget.dgspec.json
+CapybaraMain/Capy.Models/obj
 CapybaraMain/Capy.Models/obj/Capy.Models.csproj.nuget.g.props
 CapybaraMain/Capy.Models/obj/Capy.Models.csproj.nuget.g.targets
 CapybaraMain/Capy.Models/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
@@ -11,7 +11,7 @@ CapybaraMain/Capy.Models/obj/Debug/net6.0/Capy.Models.GeneratedMSBuildEditorConf
 CapybaraMain/Capy.Models/obj/Debug/net6.0/Capy.Models.GlobalUsings.g.cs
 CapybaraMain/Capy.Models/obj/project.assets.json
 CapybaraMain/Capy.Models/obj/project.nuget.cache
-CapybaraMain/Capy.Repository/obj/Capy.Repository.csproj.nuget.dgspec.json
+CapybaraMain/Capy.Repository/obj
 CapybaraMain/Capy.Repository/obj/Capy.Repository.csproj.nuget.g.props
 CapybaraMain/Capy.Repository/obj/Capy.Repository.csproj.nuget.g.targets
 CapybaraMain/Capy.Repository/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
@@ -23,7 +23,7 @@ CapybaraMain/Capy.Repository/obj/Debug/net6.0/Capy.Repository.GeneratedMSBuildEd
 CapybaraMain/Capy.Repository/obj/Debug/net6.0/Capy.Repository.GlobalUsings.g.cs
 CapybaraMain/Capy.Repository/obj/project.assets.json
 CapybaraMain/Capy.Repository/obj/project.nuget.cache
-CapybaraMain/Capy.RestApi/bin/Debug/net6.0/appsettings.Development.json
+CapybaraMain/Capy.RestApi/bin
 CapybaraMain/Capy.RestApi/bin/Debug/net6.0/appsettings.json
 CapybaraMain/Capy.RestApi/bin/Debug/net6.0/Capy.RestApi.deps.json
 CapybaraMain/Capy.RestApi/bin/Debug/net6.0/Capy.RestApi.dll
@@ -57,10 +57,10 @@ CapybaraMain/Capy.RestApi/obj/Debug/net6.0/Capy.RestApi.pdb
 CapybaraMain/Capy.RestApi/obj/Debug/net6.0/ref/Capy.RestApi.dll
 CapybaraMain/Capy.RestApi/obj/Debug/net6.0/refint/Capy.RestApi.dll
 CapybaraMain/Capy.RestApi/obj/project.assets.json
-CapybaraMain/Capy.RestApi/obj/project.nuget.cache
+CapybaraMain/Capy.RestApi/obj
 CapybaraMain/Capy.RestApi/obj/staticwebassets.pack.sentinel
 CapybaraMain/Capy.RestApi/obj/Debug/net6.0/staticwebassets.build.json
-CapybaraMain/Capy.Services/obj/Capy.Services.csproj.nuget.dgspec.json
+CapybaraMain/Capy.Services/obj
 CapybaraMain/Capy.Services/obj/Capy.Services.csproj.nuget.g.props
 CapybaraMain/Capy.Services/obj/Capy.Services.csproj.nuget.g.targets
 CapybaraMain/Capy.Services/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
