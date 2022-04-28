@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capy.RestApi", "Capy.RestApi\Capy.RestApi.csproj", "{95BDAE26-CFB8-4CF8-AEB7-848683217BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capy.Repository", "Capy.Repository\Capy.Repository.csproj", "{827CF011-0504-4903-A83E-285335728C85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Aplication", "1-Aplication", "{434AF5B4-B2DD-4EB5-B03D-EA81CEDD7B3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Services", "2-Services", "{834241C8-263F-49EA-9866-49188735B6AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Repository", "3-Repository", "{D203036B-03D2-45FA-B5AD-FD4F42FC99BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Shared", "4-Shared", "{C94B49C9-EA58-44D5-99BA-A2F98790ED5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capy.Services", "Capy.Services\Capy.Services.csproj", "{E02E3E0E-6CC7-4D7F-B414-CB319C36E229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capy.Models", "Capy.Models\Capy.Models.csproj", "{4E744D5C-4E6B-416B-91AB-CA9B747A496E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95BDAE26-CFB8-4CF8-AEB7-848683217BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BDAE26-CFB8-4CF8-AEB7-848683217BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BDAE26-CFB8-4CF8-AEB7-848683217BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BDAE26-CFB8-4CF8-AEB7-848683217BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827CF011-0504-4903-A83E-285335728C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827CF011-0504-4903-A83E-285335728C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827CF011-0504-4903-A83E-285335728C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827CF011-0504-4903-A83E-285335728C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02E3E0E-6CC7-4D7F-B414-CB319C36E229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02E3E0E-6CC7-4D7F-B414-CB319C36E229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02E3E0E-6CC7-4D7F-B414-CB319C36E229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02E3E0E-6CC7-4D7F-B414-CB319C36E229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E744D5C-4E6B-416B-91AB-CA9B747A496E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E744D5C-4E6B-416B-91AB-CA9B747A496E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E744D5C-4E6B-416B-91AB-CA9B747A496E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E744D5C-4E6B-416B-91AB-CA9B747A496E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{95BDAE26-CFB8-4CF8-AEB7-848683217BDD} = {434AF5B4-B2DD-4EB5-B03D-EA81CEDD7B3B}
+		{827CF011-0504-4903-A83E-285335728C85} = {D203036B-03D2-45FA-B5AD-FD4F42FC99BE}
+		{E02E3E0E-6CC7-4D7F-B414-CB319C36E229} = {834241C8-263F-49EA-9866-49188735B6AB}
+		{4E744D5C-4E6B-416B-91AB-CA9B747A496E} = {C94B49C9-EA58-44D5-99BA-A2F98790ED5B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C86C860-85CB-4AD7-B84C-1A11344C3D4A}
+	EndGlobalSection
+EndGlobal
