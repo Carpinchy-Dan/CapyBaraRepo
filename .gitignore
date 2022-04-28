@@ -1,5 +1,5 @@
 
-CapybaraMain/Capy.Models/obj
-CapybaraMain/Capy.Repository/obj
-CapybaraMain/Capy.RestApi/bin
-CapybaraMain/Capy.Services/obj
+CapybaraMain/Capy.Models/obj/
+CapybaraMain/Capy.Repository/obj/
+CapybaraMain/Capy.RestApi/bin/
+CapybaraMain/Capy.Services/obj/
